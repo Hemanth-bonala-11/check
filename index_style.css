@@ -7,6 +7,9 @@ main{
     background-color: rgb(13,17,52);
 
 }
+body{
+    overflow-x: hidden;
+}
 .navcontainer{
     min-height: 62px; 
     width: 100vw;  
